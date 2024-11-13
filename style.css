@@ -1,0 +1,42 @@
+* {
+  font-family: sans-serif;
+}
+.rasm {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 10%;
+}
+.rasm a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rasm img {
+  padding-bottom: 15px;
+}
+footer {
+  height: 100px;
+  background-color: #1b262f;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  padding-left: 50px;
+}
+footer a {
+  color: #fbfcfe;
+  padding: 30px;
+  margin: 20px;
+}
+.zzz {
+  padding-right: 50%;
+}
+footer div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+.vv {
+  padding-right: 3%;
+}
